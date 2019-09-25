@@ -21,6 +21,7 @@
 
 ### 아키텍쳐 참고 사이트 🌟
 
+* [AWS 10분 자습서](https://aws.amazon.com/ko/getting-started/tutorials/) -> 10분 자습서는 한 스터디 텀 당 여러 개 할 것.
 * [AWS 아키텍처 센터](https://aws.amazon.com/ko/architecture/)
 * [AWS 아키텍쳐 블로그](https://aws.amazon.com/ko/blogs/architecture/)
 * [AWSKRUG 각 소모임 레포 참조](https://github.com/awskrug/)
