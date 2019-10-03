@@ -1,0 +1,3 @@
+[submodule "yebon/architecture-1/PhotoTagger"]
+	path = yebon/architecture-1/PhotoTagger
+	url = https://github.com/yebonkim/PhotoTagger.git
